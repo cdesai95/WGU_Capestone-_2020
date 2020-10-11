@@ -1,4 +1,4 @@
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/cdesai95/WGU_Capestone_2020.git/master)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/cdesai95/WGU_Capestone_2020.git/main)
 
 # WGU_Capestone_2020
 
