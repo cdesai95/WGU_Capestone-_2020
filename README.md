@@ -1,4 +1,4 @@
-# WGU_Capestone-_2020
+# WGU_Capestone_2020
 
 COMPETENCIES
 ________________________________________
